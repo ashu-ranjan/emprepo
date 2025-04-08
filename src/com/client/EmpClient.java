@@ -7,4 +7,7 @@ public class EmpClient {
     public static void display(){
         System.out.println("Display");
     }
+    public static void  viewResults(){
+        System.out.println("view results");
+    }
 }
